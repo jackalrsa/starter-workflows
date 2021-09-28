@@ -1,0 +1,7 @@
+{
+    "name": "Alibaba CD Python application",
+    "description": "CD Create and test a Python application.",
+    "creator": "Alibaba Cloud",
+    "iconName": "alibabacloud",
+    "categories": ["Deployment", "Python", "Bottle", "Flask"]
+}
